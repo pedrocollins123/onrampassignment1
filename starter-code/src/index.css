@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu-container {
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+
+ .Logo-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    position: relative;
+    top: 80px;
+    
+}
+.centre {
+    position: relative;
+    top: 160px;
+}
+
+#classy {
+    position: relative;
+    top: 170px;
+}
+
+
+.mainpic{
+    width: 17%;
+    position: absolute;
+    left: 330px;
+    top: 170px;
+}
+
+.mainpi{
+    width: 17%;
+    position: absolute;
+    right: 330px;
+    top: 200px;
+}
+
+#newbtn {
+    background-color: #9370DB;
+    font-size: 18px;
+    border-radius: 24px;
+    padding: 12px 20px 12px 20px;
+    margin: 30px 0 10px 5px;
+    border: 2px solid white;
+    text-align: center;
+    position: relative;
+    top: 160px;
+    
+}
+
+#btndownload {
+   background-color: #4682B4;
+   font-size: 18px;
+    border-radius: 24px;
+    padding: 12px 20px 12px 20px;
+    margin: 30px 5px 10px 0;
+    border: 2px solid white;
+    text-align: center;
+    position: relative;
+    top: 160px;
+   
+}
+
+.gallery {
+    position: relative;
+    top: 10px;
+}
+
+
+.mainpic1 {
+    width: 11%;
+    position: absolute;
+    left: 470px;
+    top: 500px;
+}
+
+.mainpic2 {
+    width: 11%;
+    position: absolute;
+    left: 690px;
+    top: 500px;
+}
+
+.mainpic3 {
+    width: 11%;
+    position: absolute;
+    right: 690px;
+    top: 500px;
+}
+
+.mainpic4 {
+    width: 11%;
+    position: absolute;
+    right: 470px;
+    top: 500px;
+}
+
+#firsttext {
+    position: relative;
+    top: -20px;
+}
+
+#thirdtext {
+    position: relative;
+    top: 20px;
+}
+
+
+#bottomitems {
+    position: relative;
+    vertical-align: bottom;
+    text-align: center;
+    top: 800px;
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+ 
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Gentium Book Basic', serif;
+    font-size: 50px;
+}
+
+.main-footer {
+    /*
+    text-align: center;
+    */
+    background-blend-mode: overlay;
+    background-image: url("../utils/assets/images/image-footer.jpg");
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    background-size: cover;
+    background-color: #4682B4;
+    width: 100%;
+    padding-top: 50px;
+    position: absolute;
+    display: flex;
+    opacity: 45%;
+    top: 1200px;
+}
+
+
+#footer-img {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    justify-content: center;
+    opacity: 100%;
+}
+
+
+#sidetext {
+    padding-left: 50px;
+    text-align: left;
+    padding-right: 100px;
+    color: #fff;
+    font-size: 50px;
+    
+    
+   
+}
+
+#middletext {
+    padding-right: 100px;
+    padding-left: 50px;
+    text-align: left;
+    font-size: 20px;
+    
+    
+    
+}
+
+.main-footer #thirdbutton {
+    position: absolute;
+    background-color: #9370DB;
+    font-size: 18px;
+
+    padding: 12px 20px 12px 20px;
+    border-radius: 24px;
+    
+    display: inline-block;
+    
+   border: none;
+    text-align: center;
+    
+    
+}
+
